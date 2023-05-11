@@ -155,6 +155,7 @@ public class Train implements AbstractTrain {
         return IsEmpty;
     }
 
+
     public void setIsEmpty(IsEmpty isEmpty) {
         IsEmpty = isEmpty;
     }

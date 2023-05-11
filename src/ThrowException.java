@@ -7,6 +7,7 @@ public class ThrowException {
         throw new MyException("Не возможно разгрузить, поезд пуст", "1");
     }
 
+
     public static void throwException2() throws MyException {
         throw new MyException("Не возможно загрузить, поезд полон", "2");
     }

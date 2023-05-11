@@ -1,6 +1,7 @@
 public class ExceptionRun extends RuntimeException {
     private String code;
 
+
     public ExceptionRun(String message, String code) {
         super(message);
         this.code = code;

@@ -1,6 +1,7 @@
 public interface AbstractTrain {
     void refueling();
 
+
     void departure();
 
     void statusChange(int k);

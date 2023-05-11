@@ -22,5 +22,6 @@ public class Main {
         train1.departure();
         //вызов метода заправки поезда
         train1.refueling();
+
     }
 }

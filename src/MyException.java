@@ -1,6 +1,7 @@
 public class MyException extends Exception {
     private String code;
 
+
     public MyException(String message, String code) {
         super(message);
         this.code = code;

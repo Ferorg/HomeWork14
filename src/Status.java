@@ -4,6 +4,7 @@ public enum Status {
     Unloads("Разгружается");
     private String Status;
 
+
     Status(String status) {
         this.Status = status;
     }

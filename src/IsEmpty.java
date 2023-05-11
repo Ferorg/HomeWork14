@@ -3,6 +3,7 @@ public enum IsEmpty {
     EMPTY("Пустой");
     private String IsEmpty;
 
+
     IsEmpty(String isEmpty) {
         this.IsEmpty = isEmpty;
     }
